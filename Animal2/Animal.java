@@ -4,6 +4,6 @@ public class Animal {
 		this.name = name;
 	}
 	public void printName() {
-		System.out.println("Animal NAME is : " + name);
+		System.out.println("Animal2 NAME is : " + name);
 	}
 }
